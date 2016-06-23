@@ -1,0 +1,73 @@
+{
+	"name": "ROOT",
+	"parents":
+	[
+		{
+			"name": "Core eudicotyledons",
+			"parents":
+			[
+				{"name": "S. lycopersicum"},
+				{
+					"name": "Rosids",
+					"parents":
+					[
+						{
+							"name": "Eurosids Ⅰ",
+							"parents": 
+							[
+								{"name": "G. max"},
+								{"name": "P. trichocarpa"}
+							]
+						},
+						{
+							"name": "Brassicaceae",
+							"parents":
+							[
+								{"name": "B.rapa"},
+								{"name": "A. thaliana"}
+							]
+						}
+				
+					]
+				}
+			]
+		},
+		{
+			"name": "Poaceae",
+			"parents":
+			[
+				{
+					"name": "Andropogoneae",
+					"parents":
+					[
+						{"name": "S. bicolor"},
+						{"name": "Z. mays"}
+					]
+				},
+				{
+					"name": "Oryza",
+					"parents":
+					[
+						{"name": "O. barthii"} ,
+						{"name": "O. brachyantha"},
+						{"name": "O. glaberrima"},
+						{"name": "O. glumaepatula"},
+						{"name": "O. meridionalis"},
+						{"name": "O. nivara"},
+						{"name": "O. punctata"},
+						{"name": "O. rufipogon"},
+						{
+							"name": "Oryza sativa",
+							"parents":
+							[
+								{"name": "O. sativa subsp. japonica"},
+								{"name": "O. sativa subsp. indica"}
+							]
+						}
+					]
+				}
+			]	
+		}
+	
+	]
+}
